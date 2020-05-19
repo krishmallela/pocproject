@@ -1,0 +1,6 @@
+C:\Users\M1058117\git\search-service\zuul-gateway\src\main\java\com\demo\zuulgateway\ZuulGatewayApplication.java
+C:\Users\M1058117\git\search-service\zuul-gateway\src\main\java\com\demo\zuulgateway\filter\RouteFilter.java
+C:\Users\M1058117\git\search-service\zuul-gateway\src\main\java\com\demo\zuulgateway\filter\PostFilter.java
+C:\Users\M1058117\git\search-service\zuul-gateway\src\main\java\com\demo\zuulgateway\filter\PreFilter.java
+C:\Users\M1058117\git\search-service\zuul-gateway\src\main\java\com\demo\zuulgateway\controller\FallBackController.java
+C:\Users\M1058117\git\search-service\zuul-gateway\src\main\java\com\demo\zuulgateway\filter\ErrorFilter.java
